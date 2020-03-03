@@ -51,7 +51,7 @@ hre{
     top: 53px;
 }
 .heroimg{
-    background: url("../img/samsung_s20.jpg");
+    background: url('../img/samsung_s20.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
